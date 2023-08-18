@@ -1,0 +1,23 @@
+nav {
+    background-color: silver;
+    color: navy;
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    color: navy;
+    font-family: cursive;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    font-family: 'trebuchet MS';
+    font-size: 20px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+
+}
